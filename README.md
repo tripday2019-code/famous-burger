@@ -1,15 +1,10 @@
-# Famous Burger V2
+# Famous Burger V3
 
-Cardápio digital com:
-- Fotos dos artesanais
-- Fotos dos tradicionais
-- Fotos das porções
-- Adicionais e bebidas em lista
-- Carrinho
-- Finalização pelo WhatsApp
-- Otimização para Cloudflare Pages
+Atualização:
+- Nova Porção de Noisettes
+- Valor: R$ 15,00
+- Categoria: Porções
+- Imagem otimizada em WebP
 
-## Atualização no GitHub
-Envie todos os arquivos desta pasta para a raiz do repositório `famous-burger`.
-Substitua os arquivos antigos quando o GitHub solicitar.
-A Cloudflare Pages fará um novo deploy automaticamente.
+Envie todos os arquivos para a raiz do repositório `famous-burger`.
+A Cloudflare Pages fará o deploy automaticamente.

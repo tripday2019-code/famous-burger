@@ -207,12 +207,12 @@
     "description": ""
   },
   {
-  "id": "add-creme",
-  "name": "Cheddar Creme",
-  "price": 5,
-  "category": "adicionais",
-  "description": ""
-},
+    "id": "add-creme",
+    "name": "Catupiry ou Cheddar Creme",
+    "price": 5,
+    "category": "adicionais",
+    "description": ""
+  },
   {
     "id": "add-bacon-triturado",
     "name": "Bacon Triturado",
@@ -254,5 +254,13 @@
     "price": 7,
     "category": "bebidas",
     "description": ""
+  },
+  {
+    "id": "noisettes",
+    "name": "Porção de Noisettes",
+    "price": 15,
+    "category": "porcoes",
+    "image": "assets/noisettes.webp",
+    "description": "Bolinhas de batata crocantes por fora e macias por dentro."
   }
 ]
