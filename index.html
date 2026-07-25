@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#090909">
+<title>Famous Burger</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><img src="assets/logo.webp" alt="Famous Burger"><div><strong>Famous Burger</strong><span>Sabor que é Famous!</span></div></div>
+  <button class="cart-top" id="openCart">Carrinho <b id="cartCount">0</b></button>
+</header>
+
+<main>
+<section class="hero">
+  <div>
+    <span class="kicker">Hambúrguer artesanal</span>
+    <h1>Seu próximo favorito está aqui.</h1>
+    <p>Escolha seus itens e finalize o pedido pelo WhatsApp.</p>
+    <button class="primary" onclick="document.querySelector('#menu').scrollIntoView()">Ver cardápio</button>
+  </div>
+  <img src="assets/the-rock.webp" alt="The Rock Burger">
+</section>
+
+<section id="menu" class="menu">
+  <div class="section-title"><div><span class="kicker">Cardápio</span><h2>Escolha seu Famous</h2></div></div>
+  <input id="search" type="search" placeholder="Buscar produto...">
+  <nav class="filters" id="filters">
+    <button class="active" data-category="todos">Todos</button>
+    <button data-category="artesanais">Artesanais</button>
+    <button data-category="tradicionais">Tradicionais</button>
+    <button data-category="porcoes">Porções</button>
+    <button data-category="adicionais">Adicionais</button>
+    <button data-category="bebidas">Bebidas</button>
+  </nav>
+  <div id="products"></div>
+</section>
+</main>
+
+<div class="cart-float" id="cartFloat">
+  <div><strong><span id="floatCount">0</span> item(ns)</strong><small id="floatTotal">R$ 0,00</small></div>
+  <button id="openCartFloat">Finalizar</button>
+</div>
+
+<div class="drawer" id="drawer">
+  <div class="backdrop" id="closeBackdrop"></div>
+  <aside>
+    <button class="close" id="closeCart">✕</button>
+    <h2>Seu pedido</h2>
+    <div id="cartItems"></div>
+    <label>Observações</label>
+    <textarea id="notes" placeholder="Ex.: sem tomate, endereço, forma de pagamento..."></textarea>
+    <div class="cart-total"><span>Total</span><strong id="cartTotal">R$ 0,00</strong></div>
+    <button class="primary full" id="sendOrder">Enviar pelo WhatsApp</button>
+  </aside>
+</div>
+
+<footer>Famous Burger • (11) 99804-4222 • @famousburgersp</footer>
+<script src="app.js" defer></script>
+</body>
+</html>

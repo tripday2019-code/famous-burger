@@ -1,0 +1,252 @@
+[
+  {
+    "id": "the-rock",
+    "name": "The Rock Burger",
+    "price": 38,
+    "category": "artesanais",
+    "image": "assets/the-rock.webp",
+    "description": "Dois hambúrgueres artesanais de 140g, cheddar, bacon, ovo, salada e molho especial da casa.",
+    "featured": true
+  },
+  {
+    "id": "jackson",
+    "name": "Jackson Burger",
+    "price": 24,
+    "category": "artesanais",
+    "image": "assets/jackson.webp",
+    "description": "Hambúrguer artesanal de 140g, mussarela, alface, tomate e molho especial da casa."
+  },
+  {
+    "id": "tyson",
+    "name": "Tyson Burger",
+    "price": 29,
+    "category": "artesanais",
+    "image": "assets/tyson.webp",
+    "description": "Hambúrguer artesanal de costela de 140g, cheddar, bacon, alface e tomate."
+  },
+  {
+    "id": "stallone",
+    "name": "Stallone Burger",
+    "price": 28,
+    "category": "artesanais",
+    "image": "assets/stallone.webp",
+    "description": "Hambúrguer artesanal de 140g, cheddar, bacon, ovo, alface e tomate."
+  },
+  {
+    "id": "carrey",
+    "name": "Carrey Burger",
+    "price": 28,
+    "category": "artesanais",
+    "image": "assets/carrey.webp",
+    "description": "Hambúrguer artesanal de 140g, cheddar, bacon, alface e tomate."
+  },
+  {
+    "id": "depp",
+    "name": "Depp Burger",
+    "price": 29,
+    "category": "artesanais",
+    "image": "assets/depp.webp",
+    "description": "Hambúrguer artesanal de 140g, mussarela, presunto, bacon, ovo, salada e maionese da casa."
+  },
+  {
+    "id": "sinatra",
+    "name": "Sinatra Burger",
+    "price": 26,
+    "category": "artesanais",
+    "image": "assets/sinatra.webp",
+    "description": "Pão brioche, hambúrguer artesanal de 140g, cheddar, bacon e maionese temperada da casa."
+  },
+  {
+    "id": "elvis",
+    "name": "Elvis Burger",
+    "price": 22,
+    "category": "artesanais",
+    "image": "assets/elvis.webp",
+    "description": "Hambúrguer artesanal de 140g, mussarela e maionese temperada da casa."
+  },
+  {
+    "id": "x-burger",
+    "name": "X-Burger",
+    "price": 17,
+    "category": "tradicionais",
+    "description": "Pão, hambúrguer 90g, mussarela e maionese da casa."
+  },
+  {
+    "id": "x-salada",
+    "name": "X-Salada",
+    "price": 19,
+    "category": "tradicionais",
+    "description": "Pão, hambúrguer 90g, mussarela, alface, tomate e maionese."
+  },
+  {
+    "id": "x-bacon",
+    "name": "X-Bacon",
+    "price": 19,
+    "category": "tradicionais",
+    "description": "Pão, hambúrguer 90g, mussarela, bacon e maionese."
+  },
+  {
+    "id": "x-bacon-salada",
+    "name": "X-Bacon Salada",
+    "price": 21,
+    "category": "tradicionais",
+    "description": "Pão, hambúrguer 90g, mussarela, bacon, alface, tomate e maionese."
+  },
+  {
+    "id": "x-egg",
+    "name": "X-Egg",
+    "price": 20,
+    "category": "tradicionais",
+    "description": "Pão, hambúrguer 90g, mussarela, ovo, alface, tomate e maionese."
+  },
+  {
+    "id": "x-tudo",
+    "name": "X-Tudo",
+    "price": 27,
+    "category": "tradicionais",
+    "description": "Hambúrguer 90g, mussarela, ovo, presunto, bacon, alface, tomate e maionese."
+  },
+  {
+    "id": "porcao-mista",
+    "name": "Porção Mista",
+    "price": 35,
+    "category": "porcoes",
+    "image": "assets/porcao-mista.webp",
+    "description": "Batata ondulada, mandioca, polenta e anéis de cebola."
+  },
+  {
+    "id": "batata-tradicional",
+    "name": "Batata Tradicional",
+    "price": 18,
+    "category": "porcoes",
+    "image": "assets/batata-tradicional.webp",
+    "description": "Batatas fritas onduladas, douradas e crocantes."
+  },
+  {
+    "id": "batata-completa",
+    "name": "Batata Completa",
+    "price": 25,
+    "category": "porcoes",
+    "image": "assets/batata-completa.webp",
+    "description": "Batatas onduladas com catupiry ou cheddar e bacon."
+  },
+  {
+    "id": "add-hamb-art",
+    "name": "Hambúrguer Artesanal 140g",
+    "price": 10,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-hamb-costela",
+    "name": "Hambúrguer de Costela 140g",
+    "price": 10,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-hamb-90",
+    "name": "Hambúrguer 90g",
+    "price": 4,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-bacon",
+    "name": "Bacon Fatiado",
+    "price": 4,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-ovo",
+    "name": "Ovo",
+    "price": 2,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-mussarela",
+    "name": "2 Fatias de Mussarela",
+    "price": 4,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-cheddar",
+    "name": "2 Fatias de Cheddar",
+    "price": 4,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-presunto",
+    "name": "2 Fatias de Presunto",
+    "price": 4,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-salada",
+    "name": "Alface e/ou Tomate",
+    "price": 3,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-maionese",
+    "name": "Maionese da Casa",
+    "price": 2,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-creme",
+    "name": "Catupiry ou Cheddar Creme",
+    "price": 5,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "add-bacon-triturado",
+    "name": "Bacon Triturado",
+    "price": 5,
+    "category": "adicionais",
+    "description": ""
+  },
+  {
+    "id": "coca-2l",
+    "name": "Coca-Cola 2 Litros",
+    "price": 15,
+    "category": "bebidas",
+    "description": ""
+  },
+  {
+    "id": "coca-zero-2l",
+    "name": "Coca-Cola Zero 2 Litros",
+    "price": 15,
+    "category": "bebidas",
+    "description": ""
+  },
+  {
+    "id": "guarana-2l",
+    "name": "Guaraná Antarctica 2 Litros",
+    "price": 14,
+    "category": "bebidas",
+    "description": ""
+  },
+  {
+    "id": "coca-lata",
+    "name": "Coca-Cola Lata 350ml",
+    "price": 7,
+    "category": "bebidas",
+    "description": ""
+  },
+  {
+    "id": "guarana-lata",
+    "name": "Guaraná Antarctica Lata 350ml",
+    "price": 7,
+    "category": "bebidas",
+    "description": ""
+  }
+]
