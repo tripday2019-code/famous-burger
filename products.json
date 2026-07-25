@@ -207,12 +207,12 @@
     "description": ""
   },
   {
-    "id": "add-creme",
-    "name": "Cheddar Creme",
-    "price": 5,
-    "category": "adicionais",
-    "description": ""
-  },
+  "id": "add-creme",
+  "name": "Cheddar Creme",
+  "price": 5,
+  "category": "adicionais",
+  "description": ""
+},
   {
     "id": "add-bacon-triturado",
     "name": "Bacon Triturado",
