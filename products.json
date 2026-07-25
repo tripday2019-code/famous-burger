@@ -69,42 +69,48 @@
     "name": "X-Burger",
     "price": 17,
     "category": "tradicionais",
-    "description": "Pão, hambúrguer 90g, mussarela e maionese da casa."
+    "description": "Pão, hambúrguer 90g, mussarela e maionese da casa.",
+    "image": "assets/x-burger.webp"
   },
   {
     "id": "x-salada",
     "name": "X-Salada",
     "price": 19,
     "category": "tradicionais",
-    "description": "Pão, hambúrguer 90g, mussarela, alface, tomate e maionese."
+    "description": "Pão, hambúrguer 90g, mussarela, alface, tomate e maionese.",
+    "image": "assets/x-salada.webp"
   },
   {
     "id": "x-bacon",
     "name": "X-Bacon",
     "price": 19,
     "category": "tradicionais",
-    "description": "Pão, hambúrguer 90g, mussarela, bacon e maionese."
+    "description": "Pão, hambúrguer 90g, mussarela, bacon e maionese.",
+    "image": "assets/x-bacon.webp"
   },
   {
     "id": "x-bacon-salada",
     "name": "X-Bacon Salada",
     "price": 21,
     "category": "tradicionais",
-    "description": "Pão, hambúrguer 90g, mussarela, bacon, alface, tomate e maionese."
+    "description": "Pão, hambúrguer 90g, mussarela, bacon, alface, tomate e maionese.",
+    "image": "assets/x-bacon-salada.webp"
   },
   {
     "id": "x-egg",
     "name": "X-Egg",
     "price": 20,
     "category": "tradicionais",
-    "description": "Pão, hambúrguer 90g, mussarela, ovo, alface, tomate e maionese."
+    "description": "Pão, hambúrguer 90g, mussarela, ovo, alface, tomate e maionese.",
+    "image": "assets/x-egg.webp"
   },
   {
     "id": "x-tudo",
     "name": "X-Tudo",
     "price": 27,
     "category": "tradicionais",
-    "description": "Hambúrguer 90g, mussarela, ovo, presunto, bacon, alface, tomate e maionese."
+    "description": "Hambúrguer 90g, mussarela, ovo, presunto, bacon, alface, tomate e maionese.",
+    "image": "assets/x-tudo.webp"
   },
   {
     "id": "porcao-mista",
